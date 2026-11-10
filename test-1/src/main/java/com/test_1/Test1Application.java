@@ -11,7 +11,6 @@ public class Test1Application {
 		int b = 200;
 		char y = 'b';
 		char x = 'a';
-		int c = 300;
 		SpringApplication.run(Test1Application.class, args);
 	}
 
