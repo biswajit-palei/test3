@@ -12,6 +12,7 @@ public class Test1Application {
 		char y = 'b';
 		char x = 'a';
 		int c = 300;
+		char r = 'z';
 		SpringApplication.run(Test1Application.class, args);
 	}
 
